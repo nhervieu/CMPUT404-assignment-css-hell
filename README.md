@@ -19,7 +19,9 @@ Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
 repository and (C) 2013 Abram Hindle visibile in the text.
 
-Code is licensed under the Apache 2.0 license.
+Code is copyright Natalie Hervieux (C) 2020 under the Creative Commons Attribution 4.0 International License.
+
+Files in the gutenberg directory are sourced from https://www.gutenberg.org/.
 
 Example code was used from developer.mozilla.org so it is under the Mozilla Public License. 
 
@@ -41,6 +43,7 @@ Photos from thenounproject.com were used under the Creative Commons License Attr
 
 
 References used:
+================
 
 https://stackoverflow.com/questions/29504632/how-to-align-an-image-side-by-side-with-a-heading-element
 author: https://stackoverflow.com/users/5651/jessegavin
